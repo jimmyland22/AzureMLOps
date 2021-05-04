@@ -65,7 +65,6 @@ stages:
           -g $(RESOURCE_GROUP) --workspace-name $(WORKSPACE_NAME) \
           --overwrite -v
 
-
 - stage: 'Deploy_AKS'
   displayName: 'Deploy to AKS'
   dependsOn: Deploy_ACI
