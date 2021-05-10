@@ -14,8 +14,7 @@ trigger:
     include:
     - CMPE258United/
     - ml_service/pipelines/CMPE258United_build_train_pipeline.py
-    - ml_service/pipelines/CMPE258United_build_train_pipeline_with_r.py
-    - ml_service/pipelines/CMPE258United_build_train_pipeline_with_r_on_dbricks.py
+
 
 variables:
 - template: CMPE258United-variables-template.yml
