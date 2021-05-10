@@ -38,6 +38,10 @@ We tried using Azure AutoML to create various models and select the one with the
 ![AutoML Trial](https://github.com/jimmyland22/AzureMLOps/blob/master/images/automl-trial.png)
 
 ### ML Designer
-We tried using the Azure ML Designer to visually create training pipelines
+We used the Azure ML Designer to visually create training pipelines. It has a bit of a learning curve, as each 'block' is very specific on the data type it takes as an input.
 ![Designer Trial](https://github.com/jimmyland22/AzureMLOps/blob/master/images/ml-designer.png)
+
+We also created an inference pipeline and an inference endpoing. We did run into errors that was not very descriptive. This might be a big issue with these 'black box' type designers.
+![Inference Error](https://github.com/jimmyland22/AzureMLOps/blob/master/images/inference-error.png)
+
 
