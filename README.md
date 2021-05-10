@@ -1,18 +1,18 @@
 # CMPE 258 Final Project
 ### Team United
-####Samer Baslan
-####Rohan Kumar
+#### Samer Baslan
+#### Rohan Kumar
 #### Jimmy Liang
 
 ## Project Overview
 In this 
 
-###Goals:
+### Goals:
 * Utilize Deep Learning to create a Drug Recommendation System
 * Explore MLOps for end-to-end Machine Learning. 
 
 ## Deliverables
-###Project Presentation
+### Project Presentation
 * Link to video here
 
 ### Colab
