@@ -27,9 +27,17 @@ Utilizing the [UCI Drug Review dataset](https://archive.ics.uci.edu/ml/datasets/
 
 ## Trial & Errors
 The team experimented with a lot of differnt things throughout this project to varying degrees of success.
+
 ### Model Building
-NLP is a hard topic to pick up. The team references many NLP examples, including:
+#### Colab Notebooks
+NLP is a hard topic to pick up. The team references many NLP examples on Kaggle and other places but ran into multiple issues along the way. As we are not experienced in Tensorflow, errors relating to version differences were very time consuming and hard to troubleshoot. Some of the reference notebooks we used include:
 * link...
 
 #### AutoML
-We also tried using AutoML to 
+We tried using Azure AutoML to create various models and select the one with the best accuracy. We ran AutoML for over 24 hours and had to stop due to the cost it is incurring. It did create ~30 models, but the accuracy peaks at 20%.
+![AutoML Trial](https://github.com/jimmyland22/AzureMLOps/blob/master/images/automl-trial.png)
+
+### ML Designer
+We tried using the Azure ML Designer to visually create training pipelines
+![Designer Trial](https://github.com/jimmyland22/AzureMLOps/blob/master/images/ml-designer.png)
+
