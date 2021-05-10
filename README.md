@@ -5,7 +5,8 @@
 #### Jimmy Liang
 
 ## Project Overview
-In this 
+The goal of this project is to create a NLP based drug recommendation system and establish an end-to-end machine learning pipeline
+Utilizing the [UCI Drug Review dataset](https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29)
 
 ### Goals:
 * Utilize Deep Learning to create a Drug Recommendation System
