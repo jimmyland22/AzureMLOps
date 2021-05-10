@@ -5,7 +5,9 @@
 #### Jimmy Liang
 
 ## Project Overview
-The goal of this project is to create a NLP based drug recommendation system and establish an end-to-end machine learning pipeline
+The goal of this project is to create a NLP based drug recommendation system and establish an end-to-end machine learning pipeline using an established Cloud service provider. We decided to focus on the Azure MLOps ecosystem for this project.
+!(https://github.com/jimmyland22/AzureMLOps/blob/master/images/ml-lifecycle.png)
+
 Utilizing the [UCI Drug Review dataset](https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29)
 
 ### Goals:
@@ -28,3 +30,6 @@ The team experimented with a lot of differnt things throughout this project to v
 ### Model Building
 NLP is a hard topic to pick up. The team references many NLP examples, including:
 * link...
+
+#### AutoML
+We also tried using AutoML to 
