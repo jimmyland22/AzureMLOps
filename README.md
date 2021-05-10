@@ -21,3 +21,9 @@ In this
 
 ### Project Paper
 * Link to report
+
+## Trial & Errors
+The team experimented with a lot of differnt things throughout this project to varying degrees of success.
+### Model Building
+NLP is a hard topic to pick up. The team references many NLP examples, including:
+* link...
