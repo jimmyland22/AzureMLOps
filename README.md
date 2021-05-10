@@ -8,8 +8,8 @@
 The goal of this project is to create a NLP based drug recommendation system and establish an end-to-end machine learning pipeline using an established Cloud service provider. We decided to focus on the Azure MLOps ecosystem for this project.
 ![MLOps](https://github.com/jimmyland22/AzureMLOps/blob/master/images/ml-lifecycle.png)
 
-* (Drug Review Dataset (Druglib.com) Data Set)[https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Druglib.com%29]
-* (Drug Review Dataset (Drugs.com) Data Set)[https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29]
+* [Drug Review (Druglib.com) Data Set](https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Druglib.com%29)
+* [Drug Review (Drugs.com) Data Set](https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29)
 
 ### Goals:
 * Utilize Deep Learning to create a Drug Recommendation System
@@ -20,7 +20,7 @@ The goal of this project is to create a NLP based drug recommendation system and
 * Link to video here
 
 ### Colab
-* Link to colab1
+* Link to Colab
 * Link to Colab 2
 
 ### Project Paper
