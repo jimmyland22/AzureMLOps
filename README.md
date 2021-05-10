@@ -44,4 +44,10 @@ We used the Azure ML Designer to visually create training pipelines. It has a bi
 We also created an inference pipeline and an inference endpoing. We did run into errors that was not very descriptive. This might be a big issue with these 'black box' type designers.
 ![Inference Error](https://github.com/jimmyland22/AzureMLOps/blob/master/images/inference-error.png)
 
+### MLOps
+We followed the Azure *Getting Started with MLOpsPython*(https://github.com/microsoft/MLOpsPython/blob/master/docs/getting_started.md) tutorial to create the end-to-end machine learning pipeline.
+
+#### Issues:
+The first thing we ran into is that Azure changed how its parallel grants work for private projects [Azure Blog](https://devblogs.microsoft.com/devops/change-in-azure-pipelines-grant-for-private-projects/). We got past this first hurdle by going through the requesting process outlined in the blog.
+
 
