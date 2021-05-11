@@ -5,15 +5,25 @@
 #### Jimmy Liang
 
 ## Project Overview
-The goal of this project is to create a NLP based drug recommendation system and establish an end-to-end machine learning pipeline using an established Cloud service provider. We decided to focus on the Azure MLOps ecosystem for this project.
+The goal of this project is to create a NLP based drug recommendation system and establish an end-to-end machine learning pipeline using an established Cloud service provider. We decided to focus on the Azure MLOps ecosystem for this project, including the following steps.
 ![MLOps](https://github.com/jimmyland22/AzureMLOps/blob/master/images/ml-lifecycle.png)
+
+The dataset we used comes from UCI's Machine Learning Repository.
 
 * [Drug Review (Druglib.com) Data Set](https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Druglib.com%29)
 * [Drug Review (Drugs.com) Data Set](https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Drugs.com%29)
 
 ### Goals:
-* Utilize Deep Learning to create a Drug Recommendation System
+* Utilize Deep Learning to create a Drug Recommendation System.
 * Explore MLOps for end-to-end Machine Learning. 
+* Flask webapp frontend to invoke the inference API.
+
+The machine learning model for this project will be 2-fold. 
+1. Be able to take as input the text description of the symptoms that someone is experiencing, create an embedding, and using simple cosine similarity, compute the most likely drugs that is used to treat the symptoms.
+2. Given that we have the reviews for each drug, we will use sentiment analysis and the drug's accompanying rating to predict whether a particular drug is good or not.
+Using the above 2 criteria, we will offer a recommendation of which drug a user should take, given the symptoms.
+
+
 
 ## Deliverables
 ### Project Presentation
