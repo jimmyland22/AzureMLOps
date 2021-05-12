@@ -46,6 +46,7 @@ The team experimented with a lot of differnt things throughout this project to v
 NLP is a hard topic to pick up. The team references many NLP examples on Kaggle and other places but ran into multiple issues along the way. As we are not experienced in Tensorflow, errors relating to version differences were very time consuming and hard to troubleshoot. Some of the reference notebooks we used include:
 * [Recommendation Medicines by using a review](https://www.kaggle.com/chocozzz/recommendation-medicines-by-using-a-review)
 * [Medicine Recommendation](https://www.kaggle.com/annabellachen/medicine-recommendation)
+* [Sentiment Analysis and Product Recommendation](https://github.com/umaraju18/Capstone_project_2/blob/master/code/amazon_electronics_recommendation.ipynb)
 
 #### AutoML
 We tried using Azure AutoML to create various models and select the one with the best accuracy. We ran AutoML for over 24 hours and had to stop due to the cost it is incurring. It did create ~30 models, but the accuracy peaks at 20%.
