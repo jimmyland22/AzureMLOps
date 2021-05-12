@@ -23,6 +23,8 @@ The machine learning model for this project will be 2-fold.
 2. Given that we have the reviews for each drug, we will use sentiment analysis and the drug's accompanying rating to predict whether a particular drug is good or not.
 Using the above 2 criteria, we will offer a recommendation of which drug a user should take, given the symptoms.
 
+We utilized Azure's MLOps tutorial as the mase of our MLOps setup. This includes creating an Azure DevOps project, connecting it to this GitHub repository, and creating multiple pipelines into an Azure ML Workspace. Changes to this repository will automatically trigger the Continuous Integration pipeline in Azure DevOps to train and register a model (if necessary).
+
 
 
 ## Deliverables
