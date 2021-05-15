@@ -32,8 +32,8 @@ We utilized Azure's MLOps tutorial as the mase of our MLOps setup. This includes
 * Link to video here
 
 ### Colab
-* Link to Colab
-* Link to Colab 2
+* [Link to Colab](https://github.com/jimmyland22/AzureMLOps/blob/master/Colab_Notebooks/Recommender_model.ipynb)
+* [Link to Colab 2](https://github.com/jimmyland22/AzureMLOps/blob/master/Colab_Notebooks/final_model.ipynb)
 
 ### Project Paper
 * Link to report
