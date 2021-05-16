@@ -29,14 +29,14 @@ We utilized Azure's MLOps tutorial as the mase of our MLOps setup. This includes
 
 ## Deliverables
 ### Project Presentation
-* Link to video here
+* [Link to Video](https://github.com/jimmyland22/AzureMLOps/tree/master/Video%20Presentation)
 
 ### Colab
 * [Link to Colab](https://github.com/jimmyland22/AzureMLOps/blob/master/Colab_Notebooks/Recommender_model.ipynb)
 * [Link to Colab 2](https://github.com/jimmyland22/AzureMLOps/blob/master/Colab_Notebooks/final_model.ipynb)
 
 ### Project Paper
-* Link to report
+* [Link to paper](https://github.com/jimmyland22/AzureMLOps/tree/master/Final%20Paper)
 
 ## Trial & Errors
 The team experimented with a lot of differnt things throughout this project to varying degrees of success.
